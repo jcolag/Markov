@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markov", "Markov\Markov.csproj", "{83712A12-1169-4E95-9E19-D2B21EF65555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkovProcess", "MarkovProcess\MarkovProcess.csproj", "{BB790AA8-398C-46CA-BD9A-160C3B5947DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83712A12-1169-4E95-9E19-D2B21EF65555}.Debug|x86.ActiveCfg = Debug|x86
+		{83712A12-1169-4E95-9E19-D2B21EF65555}.Debug|x86.Build.0 = Debug|x86
+		{83712A12-1169-4E95-9E19-D2B21EF65555}.Release|x86.ActiveCfg = Release|x86
+		{83712A12-1169-4E95-9E19-D2B21EF65555}.Release|x86.Build.0 = Release|x86
+		{BB790AA8-398C-46CA-BD9A-160C3B5947DD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BB790AA8-398C-46CA-BD9A-160C3B5947DD}.Debug|x86.Build.0 = Debug|Any CPU
+		{BB790AA8-398C-46CA-BD9A-160C3B5947DD}.Release|x86.ActiveCfg = Release|Any CPU
+		{BB790AA8-398C-46CA-BD9A-160C3B5947DD}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Markov\Markov.csproj
+	EndGlobalSection
+EndGlobal
